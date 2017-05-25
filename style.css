@@ -1,0 +1,165 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: slategray; 
+}
+.headline1 {
+   
+  text-align: left;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: "Arial Black", Gadget, sans-serif;
+  padding-top: 30px;
+  color: #1D0D51;
+
+
+}
+
+.headlineimage{
+  
+  margin-left: -20pt;
+  margin-right: -20pt;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/52/64/17/526417034c1f9229df1d89473acb9ce5.jpg);
+  
+  
+}
+.headline2{
+  
+  text-align: right;
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "Arial Black", Gadget, sans-serif;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  color: #1D0D51;
+}
+
+.allLabs{
+  display: flex;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 200px;
+  margin-left: 30pt;
+  margin-right: 30pt;
+  background-color: #585668;
+  
+  
+  flex-wrap: wrap;
+  align-items: baseline;
+
+  
+  
+}
+
+img {
+  max-width:  100%;
+  max-height: 100%;
+}
+
+.lab1{
+  
+  
+  background-color: silver;
+  margin-left: 25pt;
+  margin-right: 25pt;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  margin-bottom: 20pt;
+  
+  
+  
+}
+.titlelab1{
+  padding-top: 20px;
+  text-align: center;
+
+}
+
+.lab1img {
+  
+  padding-top: 25px;
+  
+}
+
+.lab1text{
+  
+  font-size: 15px;
+  border: 1px;
+}
+
+.lab1go{
+
+  text-align: right;
+  padding-bottom: 10px;
+
+}
+a:link{
+  
+  color: black;
+  font-size: 25px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  
+  }
+a:visited{
+
+  color: black;
+  font-size: 25px;
+  
+}
+a:hover{
+  color: brown;
+}
+
+
+.lab2{
+  
+  
+  background-color: silver;
+  
+  margin-left:  25pt;
+  margin-right: 25pt ;
+  padding-left: 35px;
+  padding-right: 30px;
+  margin-bottom: 20pt;
+  
+ 
+}
+
+.titlelab2{
+  padding-top: 22px;
+  text-align: center;
+
+}
+
+.lab2img{
+  
+  margin-top: -7pt;
+  
+}
+
+.lab2text{
+  
+  margin-top: -5pt;
+  font-size: 15px;
+  border: 1px;
+  
+  
+}
+
+.lab2go{
+  
+  text-align: right;
+  margin-top: 17pt;
+  padding-bottom: 7px;
+
+  
+
+}
+
+
+
+
+
+  
+
+
